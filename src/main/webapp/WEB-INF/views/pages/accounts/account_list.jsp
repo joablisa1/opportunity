@@ -28,15 +28,15 @@
                     <li class="breadcrumb-item active">Dashboard</li>
                 </ol>
                 <div class="row">
-                    <div class="col-sm-10">
+                    <div class="col-sm-12">
                         <p class="mb-4"><a href="${pageContext.request.contextPath}/account/new" class="mr-auto btn btn-outline-success"><span class="fa fa-plus"></span> Add Account </a></p>
                         <div class="card shadow mb-4">
                             <div class="card-header py-3">
                                 <h5 class="m-0  font-weight-lighter text text-primary">Account list</h5>
                             </div>
                             <div class="card-body">
-                                <div class="table-responsive-sm ">
-                                    <table class="table table-hover table-bordered table-sm  " id="dataTable">
+                                <div class="table-responsive-sm">
+                                    <table class="table table-hover table-bordered  " id="dataTable">
                                         <thead class="bg-success">
                                         <tr>
                                             <th style="width: 10px"><input type="checkbox" id="check-all"></th>

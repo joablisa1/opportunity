@@ -8,4 +8,5 @@ public class OpportunityApplication {
     public static void main(String[] args) {
         SpringApplication.run(OpportunityApplication.class,args);
     }
+
 }

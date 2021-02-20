@@ -29,7 +29,7 @@
                     <li class="breadcrumb-item active">Dashboard</li>
                 </ol>
                 <div class="row">
-                    <div class="col-sm-10">
+                    <div class="col-sm-12">
 <%--                        <h4 class=" mb-2 text-gray-800  text-sm-right font-weight-normal ">Add User</h4>--%>
                         <p class="mb-4"><a href="${pageContext.request.contextPath}/users/new" class="mr-auto btn btn-outline-success"><span class="fa fa-plus"></span>create new user </a></p>
                         <div class="card shadow mb-4">

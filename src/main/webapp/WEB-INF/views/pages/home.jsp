@@ -88,7 +88,6 @@
             </div>
         </main>
         <%@include file="navbars/footer.jsp"%>
-
     </div>
 </div>
 <script src="webjars/bootstrap/4.3.1/js/bootstrap.js"></script>

@@ -36,8 +36,8 @@
                             </div>
                             <div class="card-body">
                                 <div class="table-responsive-sm ">
-                                    <table class="table table-hover table-bordered table-sm  " id="dataTable">
-                                        <thead class="bg-gradient-success">
+                                    <table class="table table-hover table-bordered   " id="dataTable">
+                                        <thead >
                                         <tr>
                                             <th style="width: 10px"><input type="checkbox" id="check-all"></th>
                                             <th >Name</th>
